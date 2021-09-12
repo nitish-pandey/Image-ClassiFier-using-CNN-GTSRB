@@ -10,5 +10,10 @@ You can download this dataset with the following urls ::
 ![image](https://user-images.githubusercontent.com/85100877/132977443-ecc816f3-697e-4cb4-8a61-a65ffb706daa.png)
 
 
+The single image of each of the 43 classess of the dataset is shown above respectively.
 
+
+### For this project , we are goin to use Google - Colaboratory ( Colaboratory, or “Colab” for short, is a product from Google Research. Colab allows anybody to write and execute arbitrary python code through the browser, and is especially well suited to machine learning, data analysis and education.)
+
+![image](https://user-images.githubusercontent.com/85100877/132983941-eb5315c4-f640-4a0b-a678-0c80cc785de0.png)
 
