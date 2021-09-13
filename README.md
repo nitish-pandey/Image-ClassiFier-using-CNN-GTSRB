@@ -6,11 +6,16 @@ German Traffic Sign Recognition Dataset (GTSRB) is an image classification datas
 You can download this dataset with the following urls ::
  https://sid.erda.dk/public/archives/daaeac0d7ce1152aea9b61d9f1e19370/GTSRB_Final_Training_Images.zip
  https://sid.erda.dk/public/archives/daaeac0d7ce1152aea9b61d9f1e19370/GTSRB_Final_Test_Images.zip
-
-![image](https://user-images.githubusercontent.com/85100877/132977443-ecc816f3-697e-4cb4-8a61-a65ffb706daa.png)
+ 
+![img](https://user-images.githubusercontent.com/85100877/133018113-dd1746c4-2334-4c47-9471-95506cc89e41.png)
 
 
 The single image of each of the 43 classess of the dataset is shown above respectively.
+
+
+And The count of images of each classes in the training directory is as ::
+![image](https://user-images.githubusercontent.com/85100877/133018183-1e0d9a83-0aad-4559-a6a1-fe44115e9ff7.png)
+
 
 
 ### For this project , we are goin to use Google - Colaboratory ( Colaboratory, or “Colab” for short, is a product from Google Research. Colab allows anybody to write and execute arbitrary python code through the browser, and is especially well suited to machine learning, data analysis and education.)
