@@ -7,8 +7,16 @@ You can download this dataset with the following urls ::
  https://sid.erda.dk/public/archives/daaeac0d7ce1152aea9b61d9f1e19370/GTSRB_Final_Training_Images.zip
  https://sid.erda.dk/public/archives/daaeac0d7ce1152aea9b61d9f1e19370/GTSRB_Final_Test_Images.zip
  
+ The classes and the respective signames of the dataset are as :
+ 
+ ![image](https://user-images.githubusercontent.com/85100877/136154545-5ccc181b-e069-45dd-aa63-7bd07a13b429.png)
+
+
+And the images are :
+ 
 ![img](https://user-images.githubusercontent.com/85100877/133018113-dd1746c4-2334-4c47-9471-95506cc89e41.png)
 
+![img](https://user-images.githubusercontent.com/85100877/136155685-585a903d-d214-4002-b3af-2682825bb7b4.png)
 
 The single image of each of the 43 classess of the dataset is shown above respectively.
 
